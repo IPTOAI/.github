@@ -13,6 +13,6 @@ Empowering humans to monetize their data through blockchain-enabled AI innovatio
 ## Join the Revolution
 Based on the broader Human Data Rights Movement. Join the fight for human benefit AI.
 
-Protocol Overview:
+## Protocol Overview:
 
 The IPTO Protocol implements a sophisticated multi-layer architecture designed to handle the complex requirements of data staking, processing, and licensing for AI training purposes. At its foundation, the protocol operates on the Solana blockchain, chosen for its high throughput, low transaction costs, and robust smart contract capabilities. This technical architecture seamlessly integrates blockchain technology, artificial intelligence, and distributed storage systems to create a secure and efficient platform for managing digital content rights.
