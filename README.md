@@ -11,7 +11,7 @@ Building a IP based financial ecosystem for human benefit while advancing the AI
 Empowering humans to monetize their data through blockchain-enabled AI innovations and help AI products companies and developers use authorised licensed data to build use cases and improve models.
 
 ## Join the Revolution
-Based on the broader Human Data Rights Movement. Join the fight for human benefit AI.
+Based on the broader Human Data Rights Movement. Join the fight for human benefit AI. https://www.humandatarights.org
 
 ## Protocol Overview:
 
