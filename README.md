@@ -1,4 +1,4 @@
-# IPTO - The Future of AI economy for human benefit.
+# IPTO - The Future of AI economy for human benefit. https://www.ipto.ai
 
 ## 🌟 Revolutionizing Data & IP in the AI Era
 
